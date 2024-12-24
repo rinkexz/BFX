@@ -1,7 +1,4 @@
 {
-    "projects": {
-      "default": "client"
-    },
     "build": {
       "installCommand": "npm install --force",
       "buildCommand": "npm run build",
